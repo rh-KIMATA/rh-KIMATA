@@ -1,6 +1,6 @@
 <ruby class='familyname'>木俣<rp>(</rp><rt>KIMATA</rt><rp>)</rp></ruby> <ruby>ロバート<rp>(</rp><rt>Robert</rt><rp>)</rp></ruby><ruby>久<rp>(</rp><rt>Hisashi</rt><rp>)</rp></ruby>: <a href="mailto:robert.kimata.info">robert@kimata.info</a>
 
-
+I'm writing a diary in a private repository.
 
 <!--
 
